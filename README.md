@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-![Netflix Logo](netflix_logo.png)
+![Netflix Logo](https://github.com/Kalyanikhapale/Netflix-Analysis/blob/main/Netflix%20Logo.png)
 
 This project involves **exploratory data analysis (EDA) and querying** of a Netflix dataset using **MySQL**.
 The goal is to explore Netflix's content library, understand patterns, and answer specific business-related questions using SQL queries.
