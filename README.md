@@ -66,6 +66,7 @@ The goal is to explore Netflix's content library, understand patterns, and answe
 | 14   | Find the top 10 actors who have appeared in the highest number of Indian movies |
 | 15   | Categorize content as 'Good' or 'Bad' based on keywords 'kill'/'violence'       |
 
+All SQL queries for these answers are in Netflix Analysis.sql.
 ---
 ## 📈 Example Insights
 📺 Movies dominate over TV shows in the dataset.
